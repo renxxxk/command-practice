@@ -1,0 +1,5 @@
+# .gitignoreのファイルの中身
+
+__pycache__/
+
+*.pyc
